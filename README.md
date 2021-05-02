@@ -1,0 +1,2 @@
+# Animo email template
+
